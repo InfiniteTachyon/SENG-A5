@@ -23,6 +23,7 @@ For this portion of the assignment, we had to select the 2 best models using the
 We first selected all possible comparisions with the covariates. 
 ![](./media/all_models.png)
 
+Although finding the model that best fits the data could be done through visual inspection, a more standardized approach such as comparing the log-likelihood will be taken instead. To do this, we will enter the Model Comparison tab and sort by Log-Likelihood. 
 
 # Assessment Using Reliability Demonstration Chart 
 
