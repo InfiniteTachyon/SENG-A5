@@ -25,6 +25,8 @@ We first selected all possible comparisions with the covariates.
 
 Although finding the model that best fits the data could be done through visual inspection, a more standardized approach such as comparing the log-likelihood will be taken instead. To do this, we will enter the Model Comparison tab and sort by Log-Likelihood. 
 
+![](./media/log_likelihood.png)
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
