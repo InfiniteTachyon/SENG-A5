@@ -36,7 +36,7 @@ To analyze the reliability demonstration, we have chosen to use RDC-11 and the d
 To determine the minimal MTTF to make the system acceptable, we tried to calculate a range where the system would be acceptable, based on our calculations, we believe the system would be acceptable with three maximum acceptable numbers of failures. We then had to go through a series of trial and error to find the minimal MTTF of the system. Regarding the failure data, since Failure Report 2 provides a lot of failure data of which the time between each failure is very close, we had to choose data that were more separated apart. Otherwise, the data in the plot would be too close to the origin and it would be hard to analyze. We ended up choosing data that were three failures apart as our plot input.
 
 
-Minimum Acceptable MTTFmin
+## Minimum Acceptable MTTFmin
 ![](./media/RDCMid.png)
 Half Acceptable MTTFmin
 ![](./media/RDCHalf.png)
