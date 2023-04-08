@@ -6,10 +6,12 @@
 | -------------- | --- |
 | Student Names: | David Tran    |
 |                | Bismarck Leung    |
-|                | Shichao Han    |
+|                | Chachi Han    |
 |                | Zirui Wang    |
 
 # Introduction
+For this lab, our group was tasked to familiarize ourselves with tools such as C-SFRAT and the Reliability Demonstration Chart. As part of this, we will learn how to use failure reliability growth testing to help analyze a product's change overtime.
+
 
 # 
 
