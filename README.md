@@ -45,7 +45,7 @@ The following chart displays half the MTTFmin data. We have doubled the time int
 ![](./media/RDCDouble.png)
 
 ## DOuble Acceptable MTTFmin
-
+To double the MTTF, we have chosen to decrease the time interval between failures, from 3 failures per 2300 seconds to 3 failures per 11500 seconds. After calculation, the MTTFmin will be 0.15652 failures per minute. This means we have lowered the standard, and our original plot data will be more acceptable to the standard.
 
 ![](./media/RDCHalf.png)
 # 
