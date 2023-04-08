@@ -27,6 +27,8 @@ Although finding the model that best fits the data could be done through visual 
 
 ![](./media/log_likelihood.png)
 
+Through this analysis, we're able to see that S and TL most closely matches our data. 
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
