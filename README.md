@@ -10,7 +10,7 @@
 |                | Zirui Wang    |
 
 # Introduction
-For this lab, our group was tasked to familiarize ourselves with tools such as C-SFRAT and the Reliability Demonstration Chart. As part of this, we will learn how to use failure reliability growth testing to help analyze a product's change overtime.
+For this lab, our group was tasked to familiarize ourselves with realiability assessment tools such as C-SFRAT and the Reliability Demonstration Chart. As part of this, we will learn how to use failure reliability growth testing to help analyze a product's change overtime. Additionally, the analysis of failure data can aid in its future prevention. 
 
 
 # 
