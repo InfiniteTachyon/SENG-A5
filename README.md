@@ -21,7 +21,7 @@ For this lab, our group was tasked to familiarize ourselves with realiability as
 For this portion of the assignment, we had to select the 2 best models using the provided datasets. For this portion of the lab, we used dataset 2 and C-SFRAT. Note that because we're using C-SFRAT, we had to convert the given data to the correct format first. 
 
 We first selected all possible comparisions with the covariates. 
-![](./media/all_model.png)
+![](./media/all_models.png)
 
 
 # Assessment Using Reliability Demonstration Chart 
