@@ -30,7 +30,9 @@ Although finding the model that best fits the data could be done through visual 
 Through this analysis, we're able to see that S and TL most closely matches our data. 
 
 # Assessment Using Reliability Demonstration Chart 
-
+![](./media/RDCMid.png)
+![](./media/RDCHalf.png)
+![](./media/RDCDouble.png)
 # 
 
 # Comparison of Results
