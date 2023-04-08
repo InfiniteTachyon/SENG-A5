@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:      |  13 |
+| -------------- | --- |
+| Student Names: | David Tran    |
+|                | Bismarck Leung    |
+|                | Shichao Han    |
+|                | Zirui Wang    |
 
 # Introduction
 
