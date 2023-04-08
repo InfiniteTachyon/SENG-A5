@@ -30,5 +30,5 @@ To start, we all installed the necessary tools for this lab and made sure each m
 # 
 
 # Difficulties encountered, challenges overcome, and lessons learned
-
+With this lab, a difficulty that we encounter was the incompatibility with MacOS that some of the software had. Of course, this eventually led us to adopt C-SFRAT for the visualization and analysis of the data. However, there was also another challenge that arose with adopting C-SFRAT, and that's the format it required. None of the given data files worked with C-SFRAT by default and required us to convert it by hand ourselves. While this help us hone our data analytic skills more this was a major drawback for a while.
 # Comments/feedback on the lab itself
